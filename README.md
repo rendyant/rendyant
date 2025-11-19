@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Accio+Code!+%F0%9F%AA%84;Network+Wizard+%7C+IT+Sorcerer;Turning+Coffee+into+Solutions+%E2%98%95;Debugging+is+my+Patronus+%E2%9C%A8" alt="Typing SVG" />
 
-### 👨‍💻 Rendy Antoro
+### 👨‍💻 Rendy Antono
 
 > *"After all this time?"* — "Always debugging." 💀
 
