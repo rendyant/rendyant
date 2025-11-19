@@ -221,10 +221,10 @@ const securityLearner = {
 *"Help will always be given at Hogwarts to those who ask for it"* 
 
 **Open for:**
-- 🤝 Collaboration on web & network projects
-- 💼 Internship opportunities
-- 🎓 Learning together
-- 🎤 Music & novel discussions!
+🤝 Collaboration on web & network projects
+💼 Internship opportunities
+🎓 Learning together
+🎤 Music & novel discussions!
 
 <br/>
 
