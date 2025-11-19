@@ -97,7 +97,7 @@ const wizard = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rendyant&theme=radical&hide_border=true" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=rendyant&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <br/><br/>
 
