@@ -161,17 +161,12 @@ const securityLearner = {
 
 ### 🎭 My Muggle Hobbies
 
-<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="800" />
+<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400" />
 
 **📖 Novel Reading** | **🎤 Singing**
 
 *"Words are, in my not-so-humble opinion, our most inexhaustible source of magic."*
 — Albus Dumbledore
-
-Ketika tidak coding, kamu bisa menemukanku sedang:
-- Membaca novel fantasi & sci-fi 📚
-- Berlatih vokal dan menyanyikan lagu favorit 🎵
-- Mengeksplorasi teknologi baru 🚀
 
 </div>
 
