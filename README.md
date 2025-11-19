@@ -66,8 +66,8 @@ Halo! Aku seorang mahasiswa Teknologi Informasi yang fokus pada **konfigurasi to
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&border_color=FFD700" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&border=FFD700" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rendyant&show_icons=true&theme=dracula&border_color=FFD700" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendyant&theme=dracula&border=FFD700" alt="GitHub Streak" />
 </div>
 
 ---
