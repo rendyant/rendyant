@@ -178,7 +178,6 @@ const securityLearner = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rendyant&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rendyant&theme=midnight-purple&hide_border=true&border_radius=10&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </div>
 
 <div align="center">
