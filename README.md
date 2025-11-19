@@ -161,7 +161,7 @@ const securityLearner = {
 
 ### 🎭 My Muggle Hobbies
 
-<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="250" />
 
 **📖 Novel Reading** | **🎤 Singing**
 
