@@ -97,7 +97,7 @@ const wizard = {
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rendyant&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=rendyant&theme=radical&hide_border=true" width="100%" />
 
 <br/><br/>
 
