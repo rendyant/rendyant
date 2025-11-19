@@ -1,140 +1,91 @@
+# ⚡ Welcome to My Magical Repository ⚡
+
 <div align="center">
+  
+### *"It does not do to dwell on dreams and forget to live"* 
+#### — Albus Dumbledore
 
-# 🪄 Welcome to My Digital Realm
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Accio+Code!+%F0%9F%AA%84;Network+Wizard+%7C+IT+Sorcerer;Turning+Coffee+into+Solutions+%E2%98%95;Debugging+is+my+Patronus+%E2%9C%A8" alt="Typing SVG" />
-
-### 👨‍💻 Rendy Antono
-
-> *"After all this time?"* — "Always debugging." 💀
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/🦁_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/🦉_Send_Owl_Post-EA4335?style=for-the-badge&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/🔮_My_Spellbook-8B5CF6?style=for-the-badge&logoColor=white)](https://your-portfolio.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Network+Topology+Wizard+🧙‍♂️;Full+Stack+Developer;IT+Infrastructure+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+## 🏰 About This Wizard
 
-### 🎩 About This Wizard
-
-```javascript
-const wizard = {
-    house: "Ravenclaw 🦅",
-    wand: "VS Code + Coffee ☕",
-    patronus: "Working Code 🎉",
-    boggart: "Merge Conflicts 😱",
-    specialty: [
-        "Network Sorcery 🌐",
-        "IoT Enchantments 🔮",
-        "Web Spellcasting 💻"
-    ],
-    currentlyLearning: "Advanced DevOps Charms",
-    funFact: "I speak Parseltongue... I mean Python 🐍"
-};
-```
-
-<br clear="right"/>
+Halo! Aku seorang mahasiswa Teknologi Informasi yang fokus pada **konfigurasi topologi jaringan** dan **web development**. Seperti Harry Potter yang belajar mantra, aku juga terus belajar teknologi baru untuk menciptakan solusi yang magical! ✨
 
 ---
 
-## 🏰 My Magical Arsenal
+## 📜 My Spellbook (Tech Stack)
+
+### 🦁 **Gryffindor House** - Web Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
+</p>
+
+### 🐍 **Slytherin House** - Network & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRTG-FF6A00?style=for-the-badge&logo=paessler&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white" />
+</p>
+
+### 🦅 **Ravenclaw House** - Programming & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🦡 **Hufflepuff House** - Development Environment
+<p>
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🔮 Current Magical Projects
+
+- 🌐 **Network Topology Configuration** - Merancang dan mengkonfigurasi topologi jaringan
+- 💻 **Web Development** - Membangun aplikasi web dengan PHP & modern frameworks
+- 📊 **IoT Monitoring** - Eksplorasi Node-RED & Blynk untuk monitoring system
+- 🛡️ **Network Security** - Mempelajari packet analysis dengan Wireshark
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-### 🦁 **Gryffindor** - *Frontend Bravery*
-**Where I dare to make things pretty**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logoColor=white)
-
-<br/>
-
-### 🐍 **Slytherin** - *Backend Ambition*
-**Cunning code that actually works**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-<br/>
-
-### 🦅 **Ravenclaw** - *Network Wisdom*
-**Because intelligence is my middle name... well, not really**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![PRTG](https://img.shields.io/badge/PRTG_Network_Monitor-0066B3?style=for-the-badge&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
-
-<br/>
-
-### 🦡 **Hufflepuff** - *Loyal Tools*
-**My faithful companions in the coding journey**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-04C3FF?style=for-the-badge&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&border_color=FFD700" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&border=FFD700" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎯 Current Quests
-
-- 🔭 **Main Quest:** Building network monitoring dashboards that don't crash
-- 🌱 **Side Quest:** Mastering the dark arts of Docker and Kubernetes
-- 🎮 **Daily Quest:** Converting caffeine into code (95% success rate)
-- 💭 **Dream Quest:** Creating IoT systems that talk to each other nicely
-- ⚡ **Achievement Unlocked:** Made code work on first try (once in 2019)
-
----
-
-## 🏆 House Points (Achievements)
+## 🪄 Let's Connect!
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
 
-```
-🌟 Successfully debugged without Stack Overflow: ▓▓░░░░░░░░ 20%
-☕ Coffees consumed while coding: ████████░░ 80%
-🐛 Bugs created vs bugs fixed: ████████░░ (Don't ask)
-🎯 Code reviews survived: ▓▓▓▓▓▓▓░░░ 70%
-😅 Times said "It works on my machine": ██████████ 100%
-```
+### *"Help will always be given at Hogwarts to those who ask for it"* ⚡
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🦉 Send Me an Owl!
-
-**I solemnly swear I will reply to your messages**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Mischief%20Managed&fontSize=20&fontColor=fff&animation=twinkling" />
-
-![](https://komarev.com/ghpvc/?username=rendyant&style=flat-square&color=A78BFA&label=Visitors+to+my+Wizarding+World)
-
-**⚡ "It does not do to dwell on dreams and forget to push to production." ⚡**
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
