@@ -182,19 +182,19 @@ Ketika tidak coding, kamu bisa menemukanku sedang:
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&border_radius=10&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rendyant&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rendyant&theme=midnight-purple&hide_border=true&border_radius=10&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=rendyant&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rendyant&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ---
 
@@ -207,7 +207,7 @@ Ketika tidak coding, kamu bisa menemukanku sedang:
 - 🎯 Building network monitoring dashboard
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ---
 
