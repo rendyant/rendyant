@@ -89,24 +89,6 @@ const wizard = {
 
 ---
 
-## 📈 My Marauder's Map
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rendyant&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rendyant&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendyant&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&border_radius=10" />
-
-</div>
-
----
-
 ## 🎯 Current Quests
 
 - 🔭 **Main Quest:** Building network monitoring dashboards that don't crash
